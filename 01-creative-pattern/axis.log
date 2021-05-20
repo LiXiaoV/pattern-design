@@ -1,24 +1,24 @@
-2021-05-18 10:05:29,584 0      [           main] INFO  attern.scene01.PrizeController  - 奖品发放开始10001。req:{"awardNumber":"EGM1023938910232121323432","awardType":1,"bizId":"791098764902132","uId":"10001"}
-2021-05-18 10:05:29,586 2      [           main] INFO  attern.scene01.PrizeController  - 奖品发放完成10001。
-2021-05-18 10:05:29,587 3      [           main] INFO  n_pattern.scene01.test.ApiTest  - 请求参数：{"uId":"10001","bizId":"791098764902132","awardNumber":"EGM1023938910232121323432","awardType":1}
-2021-05-18 10:05:29,589 5      [           main] INFO  n_pattern.scene01.test.ApiTest  - 测试结果：{"code":"0000","info":"发放成功"}
-2021-05-18 10:05:29,589 5      [           main] INFO  attern.scene01.PrizeController  - 奖品发放开始10001。req:{"awardNumber":"9820198721311","awardType":2,"bizId":"1023000020112221113","extMap":{"consigneeUserName":"xiaoMing","consigneeUserPhone":"15200292123","consigneeUserAddress":"广东省.广州市.番禺区.小谷围街.华南理工大学"},"uId":"10001"}
-2021-05-18 10:05:29,592 8      [           main] INFO  attern.scene01.PrizeController  - 奖品发放完成10001。
-2021-05-18 10:05:29,592 8      [           main] INFO  n_pattern.scene01.test.ApiTest  - 请求参数：{"extMap":{"consigneeUserName":"xiaoMing","consigneeUserAddress":"广东省.广州市.番禺区.小谷围街.华南理工大学","consigneeUserPhone":"15200292123"},"uId":"10001","bizId":"1023000020112221113","awardNumber":"9820198721311","awardType":2}
-2021-05-18 10:05:29,592 8      [           main] INFO  n_pattern.scene01.test.ApiTest  - 测试结果：{"code":"0000","info":"发放成功"}
-2021-05-18 10:05:29,592 8      [           main] INFO  attern.scene01.PrizeController  - 奖品发放开始10001。req:{"awardNumber":"AQY1xjkUodl8LO975GdfrYUio","awardType":3,"uId":"10001"}
-2021-05-18 10:05:29,593 9      [           main] INFO  attern.scene01.PrizeController  - 奖品发放完成10001。
-2021-05-18 10:05:29,593 9      [           main] INFO  n_pattern.scene01.test.ApiTest  - 请求参数：{"uId":"10001","awardNumber":"AQY1xjkUodl8LO975GdfrYUio","awardType":3}
-2021-05-18 10:05:29,593 9      [           main] INFO  n_pattern.scene01.test.ApiTest  - 测试结果：{"code":"0000","info":"发放成功"}
-2021-05-18 21:11:45,443 0      [           main] INFO  re.impl.CouponCommodityService  - 请求参数[优惠券] => uId：10001 commodityId：EGM1023938910232121323432 bizId：791098764902132 extMap：null
-2021-05-18 21:11:45,471 28     [           main] INFO  re.impl.CouponCommodityService  - 测试结果[优惠券]：{"code":"0000","info":"发放成功"}
-2021-05-18 21:11:45,475 32     [           main] INFO  ore.impl.GoodsCommodityService  - 请求参数[优惠券] => uId：10001 commodityId：9820198721311 bizId：1023000020112221113 extMap：{"consigneeUserName":"xiaoMing","consigneeUserAddress":"广东省.广州市.番禺区.小谷围街.华南理工大学","consigneeUserPhone":"15200292123"}
-2021-05-18 21:11:45,475 32     [           main] INFO  ore.impl.GoodsCommodityService  - 测试结果[优惠券]：true
-2021-05-18 21:11:45,476 33     [           main] INFO  tore.impl.CardCommodityService  - 请求参数[爱奇艺兑换卡] => uId：10001 commodityId：null bizId：AQY1xjkUodl8LO975GdfrYUio extMap：null
-2021-05-18 21:11:45,476 33     [           main] INFO  tore.impl.CardCommodityService  - 测试结果[爱奇艺兑换卡]：success
-2021-05-19 10:54:10,345 0      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM写入数据 key：username val：xiaov
-2021-05-19 10:54:10,347 2      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM获取数据 key：username
-2021-05-19 14:46:47,613 0      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM写入数据 key：username val：xiaov
-2021-05-19 14:46:47,614 1      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM获取数据 key：username
-2021-05-19 14:46:47,615 2      [           main] INFO  ory_pattern.scene00.matter.IIR  - IIR写入数据 key：username_iir val：xiaov
-2021-05-19 14:46:47,615 2      [           main] INFO  ory_pattern.scene00.matter.IIR  - IIR获取数据 key：username_iir
+2021-05-20 16:33:55,636 0      [           main] INFO  attern.scene01.PrizeController  - 奖品发放开始10001。req:{"awardNumber":"EGM1023938910232121323432","awardType":1,"bizId":"791098764902132","uId":"10001"}
+2021-05-20 16:33:55,645 9      [           main] INFO  attern.scene01.PrizeController  - 奖品发放完成10001。
+2021-05-20 16:33:55,649 13     [           main] INFO  n_pattern.scene01.test.ApiTest  - 请求参数：{"uId":"10001","bizId":"791098764902132","awardNumber":"EGM1023938910232121323432","awardType":1}
+2021-05-20 16:33:55,652 16     [           main] INFO  n_pattern.scene01.test.ApiTest  - 测试结果：{"code":"0000","info":"发放成功"}
+2021-05-20 16:33:55,653 17     [           main] INFO  attern.scene01.PrizeController  - 奖品发放开始10001。req:{"awardNumber":"9820198721311","awardType":2,"bizId":"1023000020112221113","extMap":{"consigneeUserName":"xiaoMing","consigneeUserPhone":"15200292123","consigneeUserAddress":"广东省.广州市.番禺区.小谷围街.华南理工大学"},"uId":"10001"}
+2021-05-20 16:33:55,660 24     [           main] INFO  attern.scene01.PrizeController  - 奖品发放完成10001。
+2021-05-20 16:33:55,660 24     [           main] INFO  n_pattern.scene01.test.ApiTest  - 请求参数：{"extMap":{"consigneeUserName":"xiaoMing","consigneeUserAddress":"广东省.广州市.番禺区.小谷围街.华南理工大学","consigneeUserPhone":"15200292123"},"uId":"10001","bizId":"1023000020112221113","awardNumber":"9820198721311","awardType":2}
+2021-05-20 16:33:55,660 24     [           main] INFO  n_pattern.scene01.test.ApiTest  - 测试结果：{"code":"0000","info":"发放成功"}
+2021-05-20 16:33:55,661 25     [           main] INFO  attern.scene01.PrizeController  - 奖品发放开始10001。req:{"awardNumber":"AQY1xjkUodl8LO975GdfrYUio","awardType":3,"uId":"10001"}
+2021-05-20 16:33:55,663 27     [           main] INFO  attern.scene01.PrizeController  - 奖品发放完成10001。
+2021-05-20 16:33:55,663 27     [           main] INFO  n_pattern.scene01.test.ApiTest  - 请求参数：{"uId":"10001","awardNumber":"AQY1xjkUodl8LO975GdfrYUio","awardType":3}
+2021-05-20 16:33:55,664 28     [           main] INFO  n_pattern.scene01.test.ApiTest  - 测试结果：{"code":"0000","info":"发放成功"}
+2021-05-20 16:34:11,102 0      [           main] INFO  re.impl.CouponCommodityService  - 请求参数[优惠券] => uId：10001 commodityId：EGM1023938910232121323432 bizId：791098764902132 extMap：null
+2021-05-20 16:34:11,126 24     [           main] INFO  re.impl.CouponCommodityService  - 测试结果[优惠券]：{"code":"0000","info":"发放成功"}
+2021-05-20 16:34:11,130 28     [           main] INFO  ore.impl.GoodsCommodityService  - 请求参数[优惠券] => uId：10001 commodityId：9820198721311 bizId：1023000020112221113 extMap：{"consigneeUserName":"xiaoMing","consigneeUserAddress":"广东省.广州市.番禺区.小谷围街.华南理工大学","consigneeUserPhone":"15200292123"}
+2021-05-20 16:34:11,131 29     [           main] INFO  ore.impl.GoodsCommodityService  - 测试结果[优惠券]：true
+2021-05-20 16:34:11,131 29     [           main] INFO  tore.impl.CardCommodityService  - 请求参数[爱奇艺兑换卡] => uId：10001 commodityId：AQY1xjkUodl8LO975GdfrYUio bizId：null extMap：null
+2021-05-20 16:34:11,131 29     [           main] INFO  tore.impl.CardCommodityService  - 测试结果[爱奇艺兑换卡]：success
+2021-05-20 16:34:20,325 0      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM写入数据 key：username val：xiaov
+2021-05-20 16:34:20,326 1      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM获取数据 key：username
+2021-05-20 16:34:27,095 0      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM写入数据 key：username val：xiaov
+2021-05-20 16:34:27,096 1      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM获取数据 key：username
+2021-05-20 16:34:27,097 2      [           main] INFO  ory_pattern.scene00.matter.IIR  - IIR写入数据 key：username_iir val：xiaov
+2021-05-20 16:34:27,097 2      [           main] INFO  ory_pattern.scene00.matter.IIR  - IIR获取数据 key：username_iir

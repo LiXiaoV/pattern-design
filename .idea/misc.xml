@@ -3,9 +3,9 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../01-creative-pattern/pom.xml" />
-        <option value="$PROJECT_DIR$/../02-structural-pattern/pom.xml" />
-        <option value="$PROJECT_DIR$/../03-behavior-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/01-creative-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/02-structural-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/03-behavior-pattern/pom.xml" />
       </list>
     </option>
   </component>
