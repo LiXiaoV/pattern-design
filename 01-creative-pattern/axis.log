@@ -22,3 +22,5 @@
 2021-05-20 16:34:27,096 1      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM获取数据 key：username
 2021-05-20 16:34:27,097 2      [           main] INFO  ory_pattern.scene00.matter.IIR  - IIR写入数据 key：username_iir val：xiaov
 2021-05-20 16:34:27,097 2      [           main] INFO  ory_pattern.scene00.matter.IIR  - IIR获取数据 key：username_iir
+2021-05-21 09:51:39,590 0      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM写入数据 key：username val：xiaov
+2021-05-21 09:51:39,592 2      [           main] INFO  ory_pattern.scene00.matter.EGM  - EGM获取数据 key：username
